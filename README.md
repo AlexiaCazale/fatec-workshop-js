@@ -1,5 +1,7 @@
 # Fatec Jahu Workshop JS
 
+Por: Aléxia Cazale - 4º semestre de Sistemas para Internet
+
 Corrija o código a abaixo.
 
 ```js
